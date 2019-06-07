@@ -8,7 +8,10 @@
 * unzip rar file to use dataset
 
 * model discovery by 
-```pm4py```
+```ProM: Inductive miner```
+
+* trace fitness by
+´´´ProM: Conformance checking by DPN (Xlog)´´´
 
 * remaining time prediction: 
 ```sklearn, RNN(keras)```
