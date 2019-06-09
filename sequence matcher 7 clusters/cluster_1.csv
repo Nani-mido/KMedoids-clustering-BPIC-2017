@@ -1,4 +1,4 @@
-i;Case ID;Activity;Resource;Variant index;(case) ApplicationType;(case) LoanGoal;(case) RequestedAmount;lbl
+;Case ID;Activity;Resource;Variant index;(case) ApplicationType;(case) LoanGoal;(case) RequestedAmount;lbl
 4833;Application_1274070913;4;User_3;33;New credit;Other, see explanation;5000.0;A_Cancelled
 4834;Application_1274070913;20;User_3;33;New credit;Other, see explanation;5000.0;A_Cancelled
 4835;Application_1274070913;3;User_3;33;New credit;Other, see explanation;5000.0;A_Cancelled

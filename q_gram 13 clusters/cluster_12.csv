@@ -1,4 +1,4 @@
-i;Case ID;Activity;Resource;Variant index;(case) ApplicationType;(case) LoanGoal;(case) RequestedAmount;lbl
+;Case ID;Activity;Resource;Variant index;(case) ApplicationType;(case) LoanGoal;(case) RequestedAmount;lbl
 1161;Application_1535675187;4;User_1;131;New credit;Car;8500.0;A_Pending
 1162;Application_1535675187;8;User_1;131;New credit;Car;8500.0;A_Pending
 1163;Application_1535675187;21;User_14;131;New credit;Car;8500.0;A_Pending
